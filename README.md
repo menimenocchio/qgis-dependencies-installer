@@ -1,0 +1,1 @@
+qgis-dependencies-installer is a function that can be packaged inside QGIS Plugins to install the dependencies found in a requirements.txt file. While not being perfect (it leverages the deprecated pip.main on macOS), it works for all operating systems as of March 2024 for QGIS LTR 3.34 Prizren.
